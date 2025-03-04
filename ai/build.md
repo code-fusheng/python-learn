@@ -1,0 +1,1 @@
+python -c "import torch;print(torch.backends.mps.is_built())"
